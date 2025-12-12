@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  color: #282c34;
+  width: 60%;
+  margin: auto;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Toggle-game-state {
+  margin: 20px 0;
+}
+
+.Input-select-size {
+  margin-top: 10px;
+}
+
+.Board-div {
+  margin-top: 20px;
+}
+
+.Tile {
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Found-solutions-list {
+  margin-top: 20px;
+  text-align: left;
+}
